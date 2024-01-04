@@ -2,10 +2,7 @@ import os
 import replicate
 import datetime
 
-os.environ["REPLICATE_API_TOKEN"] = "r8_VmB8Gd2u77b6YoXkxmTMdP3cEYzFWII2NKnC5"
-# "r8_NFb3c9LbaN50TWS39OGIbcMxlNHwq6h4WDvvY"
-# "r8_NbU0PkakswVrdk9ZDtepXJwCcUfd47E04unFA"
-# "r8_VmB8Gd2u77b6YoXkxmTMdP3cEYzFWII2NKnC5"
+os.environ["REPLICATE_API_TOKEN"] = "your_API"
 
 # https://replicate.com/meta/llama-2-70b-chat
 model_version = "meta/llama-2-70b-chat:02e509c789964a7ea8736978a43525956ef40397be9033abf9fd2badfe68c9e3"
