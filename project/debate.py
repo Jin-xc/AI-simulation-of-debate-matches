@@ -2,7 +2,7 @@ import os
 import replicate
 import datetime
 
-os.environ["REPLICATE_API_TOKEN"] = "your_API"
+os.environ["REPLICATE_API_TOKEN"] = "Your API-key"
 
 # https://replicate.com/meta/llama-2-70b-chat
 model_version = "meta/llama-2-70b-chat:02e509c789964a7ea8736978a43525956ef40397be9033abf9fd2badfe68c9e3"
