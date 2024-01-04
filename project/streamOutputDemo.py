@@ -1,7 +1,7 @@
 # 尝试流式输出，成功！运行会给你一系列的url，是图片不断迭代的过程
 import os
 
-os.environ["REPLICATE_API_TOKEN"] = "r8_NbU0PkakswVrdk9ZDtepXJwCcUfd47E04unFA"
+os.environ["REPLICATE_API_TOKEN"] = "Your API-key"
 import replicate
 
 # text = open("text.txt", "rb")
